@@ -29,6 +29,8 @@ public class Coche {
 
         miCoche.acelerar();
         miCoche.frenar();
+        System.out.println("Hola");
+
 
     }
 }
